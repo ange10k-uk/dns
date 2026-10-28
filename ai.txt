@@ -1,22 +1,3 @@
-
-# ChatGPT, OpenAI:
-||chatgpt.com^$dnsrewrite=89.108.98.20
-||ab.chatgpt.com^$dnsrewrite=89.108.98.20
-||auth.openai.com^$dnsrewrite=89.108.98.20
-||auth0.openai.com^$dnsrewrite=89.108.98.20
-||platform.openai.com^$dnsrewrite=89.108.98.20
-||cdn.oaistatic.com^$dnsrewrite=8.47.69.10
-||files.oaiusercontent.com^$dnsrewrite=8.47.69.0
-||cdn.auth0.com^$dnsrewrite=108.157.211.47
-||tcr9i.chat.openai.com^$dnsrewrite=89.108.98.20
-||webrtc.chatgpt.com^$dnsrewrite=134.0.118.88
-||android.chat.openai.com^$dnsrewrite=89.108.98.20
-||api.openai.com^$dnsrewrite=89.108.98.20
-||operator.chatgpt.com^$dnsrewrite=89.108.98.20
-||sora.chatgpt.com^$dnsrewrite=89.108.98.20
-||sora.com^$dnsrewrite=89.108.98.20
-||videos.openai.com^$dnsrewrite=89.108.98.20
-
 # Google:
 ||gemini.google.com^$dnsrewrite=89.108.98.20
 ||aistudio.google.com^$dnsrewrite=89.108.98.20
@@ -34,40 +15,6 @@
 ||jules.google.com^$dnsrewrite=89.108.98.20
 ||stitch.withgoogle.com^$dnsrewrite=185.246.223.127
 
-# Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming:
-||copilot.microsoft.com^$dnsrewrite=89.108.98.20
-||sydney.bing.com^$dnsrewrite=134.0.118.88
-||edgeservices.bing.com^$dnsrewrite=23.216.134.136
-||rewards.bing.com^$dnsrewrite=150.171.28.10
-||xsts.auth.xboxlive.com^$dnsrewrite=85.198.83.162
-||xgpuwebf2p.gssv-play-prod.xboxlive.com^$dnsrewrite=51.12.31.0
-||xgpuweb.gssv-play-prod.xboxlive.com^$dnsrewrite=89.108.98.20
-
-# GitHub Copilot:
-||api.github.com^$dnsrewrite=89.108.98.20
-||api.individual.githubcopilot.com^$dnsrewrite=89.108.98.20
-||proxy.individual.githubcopilot.com^$dnsrewrite=89.108.98.20
-
-# JetBrains:
-||datalore.jetbrains.com^$dnsrewrite=18.173.205.21
-||plugins.jetbrains.com^$dnsrewrite=89.108.98.20
-||download.jetbrains.com^$dnsrewrite=89.108.98.20
-
-# Grok
-||grok.com^$dnsrewrite=89.108.98.20
-||accounts.x.ai^$dnsrewrite=89.108.98.20
-||assets.grok.com^$dnsrewrite=89.108.98.20
-
-# Claude
-||claude.ai^$dnsrewrite=89.108.98.20
-||console.anthropic.com^$dnsrewrite=160.79.104.10
-||auth.anthropic.com^$dnsrewrite=185.246.223.127
-||api.anthropic.com^$dnsrewrite=160.79.104.10
-
-# Screamer
-||only-fans.uk^$dnsrewrite=0.0.0.0
-||only-fans.me^$dnsrewrite=0.0.0.0
-||onlyfans.wtf^$dnsrewrite=0.0.0.0
 # IP Logger
 ||iplogger.org^$dnsrewrite=0.0.0.0
 ||wl.gl^$dnsrewrite=0.0.0.0
